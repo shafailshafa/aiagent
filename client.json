@@ -1,0 +1,6 @@
+{"client_id":"https://shafailshafa.github.io/aiagent/client.json",
+ "client_name":"MyLocalAI",
+ "redirect_uris":["http://127.0.0.1/callback"],
+ "grant_types":["authorization_code","refresh_token"],
+ "response_types":["code"],
+ "token_endpoint_auth_method":"none"}
